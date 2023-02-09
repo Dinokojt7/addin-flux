@@ -46,6 +46,10 @@ export default function Header() {
                         Contact
                     </p>
                     <button 
+                    type="button"
+                    onClick={() => {
+                        window.open("https://forms.zohopublic.com/addinflux/form/Contact/formperma/XgCNY3Ki5RfG2XxtLETuT2gGIP_spFTEhu2Pfl6D04g", "_blank")
+                    }}
                         className="border border-border rounded-full py-2 px-2 cursor-default"
                         pointer="none"
                     >
