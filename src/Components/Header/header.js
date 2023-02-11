@@ -28,7 +28,7 @@ export default function Header() {
             <div className="sticky top-0 z-50 w-full grid grid-cols-5 m-3 pr-8  py-5" >
                 <div className="space-x-4 col-span-4">    
                     <button 
-                        className="rounded-full border border-border opacity-90 py-2 px-6 "
+                        className="rounded-full border border-stone opacity-90 py-2 px-6 "
                         type="button"
                         onClick= {() => {
                             openModal();
@@ -36,7 +36,7 @@ export default function Header() {
                     >
                         <p className="text-stone text-sm tracking-wide">Addin Flux</p>
                     </button>
-                    <button className="border border-border rounded-full opacity-90 py-2 px-6 ">
+                    <button className="border border-stone rounded-full opacity-90 py-2 px-6 ">
                         <p className="text-stone text-sm tracking-wide">Index</p>
                     </button>
                 </div>
@@ -50,7 +50,7 @@ export default function Header() {
                     onClick={() => {
                         window.open("https://forms.zohopublic.com/addinflux/form/Contact/formperma/XgCNY3Ki5RfG2XxtLETuT2gGIP_spFTEhu2Pfl6D04g", "_blank")
                     }}
-                        className="border border-border rounded-full py-2 px-2 cursor-default"
+                        className="border border-stone rounded-full py-2 px-2 cursor-default"
                         pointer="none"
                     >
                         <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="#525252">
@@ -86,8 +86,8 @@ export default function Header() {
                             >
                                 <Dialog.Overlay className="fixed inset-0 transition-opacity" />
                             </Transition.Child>
-                            <span class="candy hidden w-5/5 rounded-lg sm:inline-block sm:align-middle mx-64 mt-12 py-5" aria-hidden="true">
-                                <p className="text-gray-900 text-sm text-center px-24">
+                            <span class="candy hidden w-3/5 rounded-lg sm:inline-block sm:align-middle mx-auto mt-12 py-5" aria-hidden="true">
+                                <p className="text-white text-sm text-center px-24">
                                     Addin Flux
                                     <br />
                                     254 Fox Street , The Onyx
@@ -105,7 +105,7 @@ export default function Header() {
                                     digital world. 
                                 </p>
                                 
-                                <div class="slider px-24">
+                                <div class="slider pr-100">
                                     <div class="slide-track">
                                         <div class="slide">
                                             <img src={`/images/yd.png`} style={{width:"8rem", height:"7rem"}} alt="" />
