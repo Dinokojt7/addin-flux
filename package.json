@@ -22,7 +22,8 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
-    "start": "craco start",
+    "start": "react-scripts start",
+    "predeploy": "yarn run build",
     "build": "craco build",
     "test": "craco test",
     "deploy": "gh-pages -b master -d build",
