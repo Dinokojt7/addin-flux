@@ -246,16 +246,16 @@ export default function Introduction() {
         <div class="col-span-1 border-r border-t border-border bg-gray-100 p-2">
      
         </div>
-        <div class="col-span-3 border-r border-t border-border bg-gray-100 p-2">
+      <div class="col-span-3 border-r border-t border-border bg-gray-100 p-2">
      
-        </div>
-        <div class="col-span-1 border-r border-t border-border bg-gray-100 p-2">
+      </div>
+      <div class="col-span-1 border-r border-t border-border bg-gray-100 p-2">
  
-        </div>
-        <div class="col-span-3 flex justify-between border-r border-t border-border bg-gray-100 ">
+      </div>
+      <div class="col-span-3 flex justify-between border-r border-t border-border bg-gray-100 ">
     <p className="text-xxs text-bermuda uppercase pl-1 font-extrabold tracking-wider font-mono">Razum</p>
     <p className="text-xxs text-bermuda uppercase pr-1 font-extrabold tracking-wider font-mono">WEB APP</p>
-  </div>
+      </div>
       </div>
       <div class="grid grid-cols-12 bg-gridbg text-sm font-mono text-gray-700">
         
