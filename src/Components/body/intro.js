@@ -84,7 +84,7 @@ export default function Introduction() {
         <div class="col-span-1 border-l border-r border-border bg-gray-100 p-2">
        
         </div>
-        <div class="h-58 bg-stoner col-span-3 border-r border-t border-border bg-gray-100 p-2">
+        <div class="h-60 bg-stoner col-span-3 border-r border-t border-border bg-gray-100 p-2">
   <img src="https://theloadshedding.com/wp-content/uploads/2023/02/design-3.png" class="max-w-auto my-7  h-auto" alt="..." />
   </div>
         <div class="col-span-1 border-r border-t border-border bg-gray-100 p-2">
@@ -118,12 +118,12 @@ export default function Introduction() {
         <div class="col-span-1 border-r border-t border-border bg-gray-100 p-2">
  
         </div>
-        <div class="col-span-3 border-r border-t border-border bg-gray-100 ">
-        <p className="text-xs text-stoner font-semibold font-mono">Razum</p>
-        </div>
-       
+        <div class="col-span-3 flex justify-between border-r border-t border-border bg-gray-100 ">
+    <p className="text-xxs text-bermuda uppercase pl-1 font-extrabold tracking-wider font-mono">Razum</p>
+    <p className="text-xxs text-bermuda uppercase pr-1 font-extrabold tracking-wider font-mono">WEB APP</p>
+  </div>
       </div>
-      <div class="grid grid-cols-12 mb-4 bg-gridbg text-sm font-mono text-gray-700">
+      <div class="grid grid-cols-12 bg-gridbg text-sm font-mono text-gray-700">
         
         <div class="col-span-1 border-l border-r border-border bg-gray-100 p-2">
      
@@ -140,9 +140,187 @@ export default function Introduction() {
         <div class="col-span-1 border-r border-t border-border bg-gray-100 p-2">
       
         </div>
-        <div class="h-58 bg-stoner col-span-3 border-r border-t border-border bg-gray-100 p-2">
+        <div class="h-60 bg-stoner col-span-3 border-r border-t border-border bg-gray-100 p-2">
   <img src="https://theloadshedding.com/wp-content/uploads/2023/02/design-3.png" class="max-w-auto my-7  h-auto" alt="..." />
   </div>
+        
+       
+      </div>
+      <div class="grid grid-cols-12 bg-gridbg text-sm font-mono text-gray-700">
+        
+        <div class="col-span-1 border border-border bg-gray-100 p-2">
+        
+        </div>
+        <div class="col-span-3 border-r border-t border-border bg-gray-100 p-2">
+      
+        </div>
+        <div class="col-span-1 border-r border-t border-border bg-gray-100 p-2">
+     
+        </div>
+        <div class="col-span-3 flex justify-between border-r border-t border-border bg-gray-100 ">
+    <p className="text-xxs text-bermuda uppercase pl-1 font-extrabold tracking-wider font-mono">Razum</p>
+    <p className="text-xxs text-bermuda uppercase pr-1 font-extrabold tracking-wider font-mono">WEB APP</p>
+  </div>
+  <div class="col-span-1 border-r border-t border-border bg-gray-100 p-2">
+     
+     </div>
+        <div class="col-span-3 flex justify-between border-r border-t border-border bg-gray-100 ">
+    </div>
+      </div>
+      <div class="grid grid-cols-12 bg-gridbg text-sm font-mono text-gray-700">
+        
+        <div class="col-span-1 border-l border-r border-border bg-gray-100 p-2">
+     
+        </div>
+        <div class="col-span-3 border-r border-t border-border bg-gray-100 p-2">
+      
+        </div>
+        <div class="col-span-1 border-r border-t border-border bg-gray-100 p-2">
+       
+        </div>
+        <div class="h-60 bg-stoner col-span-3 border-r border-t border-border bg-gray-100 p-2">
+  <img src="https://theloadshedding.com/wp-content/uploads/2023/02/design-3.png" class="max-w-auto my-7  h-auto" alt="..." />
+  </div>
+        <div class="col-span-1 border-r border-t border-border bg-gray-100 p-2">
+      
+        </div>
+        <div class="col-span-3 border-r border-t border-border bg-gray-100 p-2">
+      
+        </div>
+        
+       
+      </div>
+      <div class="grid grid-cols-12 bg-gridbg text-sm font-mono text-gray-700">
+        
+  <div class="col-span-1 border border-border bg-gray-100 ">
+  
+  </div>
+  <div class="col-span-3 flex justify-between border-r border-t border-border bg-gray-100 ">
+    <p className="text-xxs text-bermuda uppercase pl-1 font-extrabold tracking-wider font-mono">Razum</p>
+    <p className="text-xxs text-bermuda uppercase pr-1 font-extrabold tracking-wider font-mono">WEB APP</p>
+  </div>
+  <div class="col-span-1 border-r border-t border-border bg-gray-100 ">
+  
+  </div>
+  <div class="col-span-3 border-r border-t border-border bg-gray-100 ">
+
+  </div>
+  <div class="col-span-1 border-r border-t border-border bg-gray-100 ">
+ 
+  </div>
+  <div class="col-span-3 border-r border-t border-border bg-gray-100 ">
+ 
+  </div>
+ 
+</div>
+<div class="grid grid-cols-12 bg-gridbg text-sm font-mono text-gray-700">
+        
+        <div class="col-span-1 border-l border-r border-border bg-gray-100 p-2">
+       
+        </div>
+        <div class="h-60 bg-stoner col-span-3 border-r border-t border-border bg-gray-100 p-2">
+  <img src="https://theloadshedding.com/wp-content/uploads/2023/02/design-3.png" class="max-w-auto my-7  h-auto" alt="..." />
+  </div>
+        <div class="col-span-1 border-r border-t border-border bg-gray-100 p-2">
+    
+        </div>
+        <div class="col-span-3 border-r border-t border-border bg-gray-100 p-2">
+     
+        </div>
+        <div class="col-span-1 border-r border-t border-border bg-gray-100 p-2">
+      
+        </div>
+        <div class="col-span-3 border-r border-t border-border bg-gray-100 p-2">
+    
+        </div>
+       
+      </div>
+      <div class="grid grid-cols-12 bg-gridbg text-sm font-mono text-gray-700">
+        
+        <div class="col-span-1 border border-border bg-gray-100 p-2">
+        
+        </div>
+        <div class="col-span-3 border-r border-t border-border bg-gray-100 p-2">
+      
+        </div>
+        <div class="col-span-1 border-r border-t border-border bg-gray-100 p-2">
+     
+        </div>
+        <div class="col-span-3 border-r border-t border-border bg-gray-100 p-2">
+     
+        </div>
+        <div class="col-span-1 border-r border-t border-border bg-gray-100 p-2">
+ 
+        </div>
+        <div class="col-span-3 flex justify-between border-r border-t border-border bg-gray-100 ">
+    <p className="text-xxs text-bermuda uppercase pl-1 font-extrabold tracking-wider font-mono">Razum</p>
+    <p className="text-xxs text-bermuda uppercase pr-1 font-extrabold tracking-wider font-mono">WEB APP</p>
+  </div>
+      </div>
+      <div class="grid grid-cols-12 bg-gridbg text-sm font-mono text-gray-700">
+        
+        <div class="col-span-1 border-l border-r border-border bg-gray-100 p-2">
+     
+        </div>
+        <div class="col-span-3 border-r border-t border-border bg-gray-100 p-2">
+      
+        </div>
+        <div class="col-span-1 border-r border-t border-border bg-gray-100 p-2">
+       
+        </div>
+        <div class="col-span-3 border-r border-t border-border bg-gray-100 p-2">
+         
+        </div>
+        <div class="col-span-1 border-r border-t border-border bg-gray-100 p-2">
+      
+        </div>
+        <div class="h-60 bg-stoner col-span-3 border-r border-t border-border bg-gray-100 p-2">
+  <img src="https://theloadshedding.com/wp-content/uploads/2023/02/design-3.png" class="max-w-auto my-7  h-auto" alt="..." />
+  </div>
+        
+       
+      </div>
+      <div class="grid grid-cols-12 bg-gridbg text-sm font-mono text-gray-700">
+        
+        <div class="col-span-1 border border-border bg-gray-100 p-2">
+        
+        </div>
+        <div class="col-span-3 border-r border-t border-border bg-gray-100 p-2">
+      
+        </div>
+        <div class="col-span-1 border-r border-t border-border bg-gray-100 p-2">
+     
+        </div>
+        <div class="col-span-3 flex justify-between border-r border-t border-border bg-gray-100 ">
+    <p className="text-xxs text-bermuda uppercase pl-1 font-extrabold tracking-wider font-mono">Razum</p>
+    <p className="text-xxs text-bermuda uppercase pr-1 font-extrabold tracking-wider font-mono">WEB APP</p>
+  </div>
+  <div class="col-span-1 border-r border-t border-border bg-gray-100 p-2">
+     
+     </div>
+        <div class="col-span-3 flex justify-between border-r border-t border-border bg-gray-100 ">
+    </div>
+      </div>
+      <div class="grid grid-cols-12 bg-gridbg text-sm font-mono text-gray-700">
+        
+        <div class="col-span-1 border-l border-r border-border bg-gray-100 p-2">
+     
+        </div>
+        <div class="col-span-3 border-r border-t border-border bg-gray-100 p-2">
+      
+        </div>
+        <div class="col-span-1 border-r border-t border-border bg-gray-100 p-2">
+       
+        </div>
+        <div class="h-60 mb-2 bg-stoner col-span-3 border-r border-t border-border bg-gray-100 p-2">
+  <img src="https://theloadshedding.com/wp-content/uploads/2023/02/design-3.png" class="max-w-auto my-7  h-auto" alt="..." />
+  </div>
+        <div class="col-span-1 border-r border-t border-border bg-gray-100 p-2">
+      
+        </div>
+        <div class="col-span-3 border-r border-t border-border bg-gray-100 p-2">
+      
+        </div>
         
        
       </div>
